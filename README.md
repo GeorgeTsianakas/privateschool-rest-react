@@ -1,4 +1,4 @@
-# privateschool REST Application using Spring Boot & React ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring) ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react)
+# privateschool REST Application using Spring Boot & React ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring) ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react) ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql)
 
 A Spring Boot/React User Management System project which is extend to my old projects [privateschool](https://github.com/GeorgeTsianakas/privateschool) and [trainersCRUD](https://github.com/GeorgeTsianakas/trainersCRUD).
 
